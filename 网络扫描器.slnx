@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="网络扫描器/网络扫描器.vcxproj" Id="2f43b46d-9f9e-440e-bd70-f5eae0542b37" />
+</Solution>
